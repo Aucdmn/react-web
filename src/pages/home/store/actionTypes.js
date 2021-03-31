@@ -1,0 +1,1 @@
+export const GET_WHOLE_PAGE = 'get_whole_page';
